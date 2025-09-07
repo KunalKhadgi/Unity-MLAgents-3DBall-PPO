@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller distribution
+/dist/
+/build/
+
+# Environments
+.env
+.venv
+venv
+env
+py310_venv
+
+# Unit test / coverage reports
+*.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.log
+*.csv
+*.json
+*.pkl
+*.pth
+
+# mlagents
+ml-agents/
+
+# Unity
+New 3D Ball/
+/Library
+/Temp
+/Obj
+/ProjectSettings/ProjectVersion.txt
+/UserSettings
+ml-agents/
+py310_venv/
