@@ -8,6 +8,12 @@ The 3DBall environment is a classic reinforcement learning task where an agent l
 
 This project utilizes the **Proximal Policy Optimization (PPO)** algorithm to train the agent, a state-of-the-art method for reinforcement learning.
 
+## Demo Video
+
+Click the image below to view the demo of the trained agent balancing the ball:
+
+[![3DBall Demo]](https://github.com/KunalKhadgi/Unity-MLAgents-3DBall-PPO/blob/main/3DBall_Demo.mp4)
+
 ## Setup and Installation
 
 Follow these steps to set up the project and train the agent from scratch.
